@@ -1,5 +1,5 @@
 body{
-    background-color:white;
+    background-color: #955251;
     margin: 0px auto;
     width: 500px;
     height: 620px;
@@ -11,8 +11,8 @@ body{
     padding: 5px;
 }
 .container{
-    color: #555;
-    background-color: tomato;
+    color: white;
+    background-color: #34568b;
 }
 #btn{
     color: rebeccapurple;
